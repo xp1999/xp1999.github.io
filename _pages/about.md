@@ -34,3 +34,7 @@ Education
 
 - **Bachelor, ShanghaiTech University**, 2018-2022   
   *Electrical Engineering*
+
+Education
+======
+- **ShanghaiTech University Outstanding Graduates**, 2025, 2/80
