@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Xiaopeng Yu"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his"# example: "she/her"  
   bio              : "Medical Physics PhD student at University of Wisconsin-Madison"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Wisconsin Institute for Medical Research"
+  employer         : "Department of Medical Physics, University of Wisconsin-Madison"
+  uri              : "https://medphysics.wisc.edu/"# URL
+  email            : "xyu453@wisc.edu" 
 
   # Academic websites
   academia         : # URL
