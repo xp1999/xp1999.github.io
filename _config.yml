@@ -28,7 +28,7 @@ author:
   bio              : "Medical Physics PhD student at University of Wisconsin-Madison"
   location         : "1111 Highland Ave, Madison"
   employer         : "University of Wisconsin-Madison"
-  uri              : "https://medphysics.wisc.edu/"# URL
+  uri              : # URL
   email            : "xyu453@wisc.edu" 
 
   # Academic websites
