@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<h1 style="text-align: center;">Xiaopeng Yu</h1>
+<p style="text-align: center;">Ph.D. Student in Medical Physics<br>University of Wisconsin-Madison</p>
 
 About me
 ======
