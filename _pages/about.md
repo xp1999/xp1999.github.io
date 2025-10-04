@@ -38,6 +38,6 @@ Education
 Honors
 ======
 - **Outstanding Graduate**, ShanghaiTech University, 2025 
-  - *Awarded to the top 3% of the graduating class (2 of 60 students).*
+  - *Awarded to the top 3% of the graduating class (2 out of 60 students).*
 - **Outstanding Teaching Assistant**, ShanghaiTech University, 2024 
 - **Trainee Grant**, IEEE Nuclear Science Symposium & Medical Imaging Conference, 2024
