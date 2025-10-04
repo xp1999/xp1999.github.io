@@ -11,7 +11,14 @@ redirect_from:
 
 About me
 ======
-I am currently a Ph.D student at University of Wisconsin-Madison in [Medical Physics](https://medphysics.wisc.edu/about-us/mission-and-vision/), supervised by [Dr. Guang-Hong Chen](https://medphysics.wisc.edu/blog/staff/chen-guanghong/). My research focuses on CT imaging, particularly in Photon-Counting CT imaging. I earned my master's degree in Computer Science and bachelor's degree in Electrical Engineering from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), where I was supervised by [Dr. Xiaochun Lai](https://bme.shanghaitech.edu.cn/bme_en/2021/0205/c8252a85055/page.htm).
+I am currently a Ph.D. student at University of Wisconsin-Madison in [Medical Physics](https://medphysics.wisc.edu/about-us/mission-and-vision/), supervised by [Dr. Guang-Hong Chen](https://medphysics.wisc.edu/blog/staff/chen-guanghong/). My research focuses on CT imaging, particularly in Photon-Counting CT imaging. I earned my master's degree in Computer Science and bachelor's degree in Electrical Engineering from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), where I was supervised by [Dr. Xiaochun Lai](https://bme.shanghaitech.edu.cn/bme_en/2021/0205/c8252a85055/page.htm).
+
+
+Research Interests
+======
+- Photon-Counting CT
+- Image Reconstruction
+- Material Decomposition  
 
 
 Selected Publications
@@ -26,7 +33,7 @@ Selected Publications
 
 Education
 ======
-- **PhD, University of Wisconsin-Madison**, 2025-present   
+- **Ph.D., University of Wisconsin-Madison**, 2025-present   
   *Medical Physics*
   
 - **Master, ShanghaiTech University**, 2022-2025   
