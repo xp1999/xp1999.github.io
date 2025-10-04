@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiaopeng Yu (PhD student at University of Wisconsin-Madison)"
+title: "Xiaopeng Yu"
 author_profile: true
 redirect_from: 
   - /about/
