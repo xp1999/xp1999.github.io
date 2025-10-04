@@ -18,7 +18,7 @@ Selected Publications
 ======
 - **A Physics-ASIC Architecture-Driven Deep Learning Photon-Counting Detector Model Under Limited Data**  
 <span style="color:gray;"> **Xiaopeng Yu**, Qianyu Wu, Wenhui Qin, Tao Zhong, Mengqing Su, Jinglu Ma, Yikun Zhang, Xu Ji, Wenying Wang, Guotao Quan, Yanfeng Du, Yang Chen, Xiaochun Lai</span>   
-*[IEEE Transactions on Medical Imaging (TMI)](https://ieeexplore.ieee.org/abstract/document/11151297), 2025*
+*[IEEE Transactions on Medical Imaging (IEEE TMI)](https://ieeexplore.ieee.org/abstract/document/11151297), 2025*
 
 - **Material decomposition in photon-counting ct: A deep learning approach driven by detector physics and asic modeling**  
 <span style="color:gray;"> **Xiaopeng Yu**, Qianyu Wu, Wenhui Qin, Tao Zhong, Mengqing Su, Jinglu Ma, Yikun Zhang, Xu Ji, Guotao Quan, Yang Chen, Yanfeng Du, Xiaochun Lai</span>   
