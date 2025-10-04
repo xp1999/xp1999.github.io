@@ -35,6 +35,8 @@ Education
 - **Bachelor, ShanghaiTech University**, 2018-2022   
   *Electrical Engineering*
 
-Education
+Honors
 ======
-- **ShanghaiTech University Outstanding Graduates**, 2025, 2/80
+- **ShanghaiTech University Outstanding Graduates**, 2025 (Top 2.5%, 2/80 recipients)
+- **ShanghaiTech University Outstanding Teaching Assistant**, 2024
+- **IEEE NSS MIC RTSD Trainee Grant**, 2024
