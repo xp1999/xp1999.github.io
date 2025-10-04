@@ -37,6 +37,9 @@ Education
 
 Honors
 ======
-- **ShanghaiTech University Outstanding Graduates**, 2025 (Top 3%, 2 out of 60 recipients)
-- **ShanghaiTech University Outstanding Teaching Assistant**, 2024
-- **IEEE NSS MIC RTSD Trainee Grant**, 2024
+Honors
+======
+- **Outstanding Graduate**, ShanghaiTech University, 2025 
+  - *Awarded to the top 2.5% of the graduating class (2 of 80 students).*
+- **Outstanding Teaching Assistant**, ShanghaiTech University, 2024 
+- **Trainee Grant**, IEEE Nuclear Science Symposium & Medical Imaging Conference (NSS-MIC), 2024
