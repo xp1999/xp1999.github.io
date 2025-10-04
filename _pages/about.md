@@ -26,4 +26,11 @@ Selected Publications
 
 Education
 ======
+- **PhD, University of Wisconsin-Madison**, 2025-present
+  *Medical Physics*
+  
+- **Master, ShanghaiTech University**, 2022-2025
+  *Computer Science*
 
+- **Bachelor, ShanghaiTech University**, 2018-2022
+  *Electrical Engineering*
