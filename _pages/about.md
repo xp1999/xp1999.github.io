@@ -16,11 +16,14 @@ I am currently a Ph.D student at University of Wisconsin-Madison in Medical Phys
 
 Publications
 ======
-1. **A Physics-ASIC Architecture-Driven Deep Learning Photon-Counting Detector Model Under Limited Data**  
+- **A Physics-ASIC Architecture-Driven Deep Learning Photon-Counting Detector Model Under Limited Data**  
 <span style="color:gray;"> **Xiaopeng Yu**, Qianyu Wu, Wenhui Qin, Tao Zhong, Mengqing Su, Jinglu Ma, Yikun Zhang, Xu Ji, Wenying Wang, Guotao Quan, Yanfeng Du, Yang Chen, Xiaochun Lai</span>   
 *IEEE Transactions on Medical Imaging (TMI), 2025*
 
-2. **Material decomposition in photon-counting ct: A deep learning approach driven by detector physics and asic modeling**  
+- **Material decomposition in photon-counting ct: A deep learning approach driven by detector physics and asic modeling**  
 <span style="color:gray;"> **Xiaopeng Yu**, Qianyu Wu, Wenhui Qin, Tao Zhong, Mengqing Su, Jinglu Ma, Yikun Zhang, Xu Ji, Guotao Quan, Yang Chen, Yanfeng Du, Xiaochun Lai</span>   
 *International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024, **early accept***
+
+Education
+======
 
