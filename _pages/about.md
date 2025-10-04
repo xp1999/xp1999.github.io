@@ -22,5 +22,5 @@ Publications
 
 2. **Material decomposition in photon-counting ct: A deep learning approach driven by detector physics and asic modeling**  
 <span style="color:gray;"> **Xiaopeng Yu**, Qianyu Wu, Wenhui Qin, Tao Zhong, Mengqing Su, Jinglu Ma, Yikun Zhang, Xu Ji, Guotao Quan, Yang Chen, Yanfeng Du, Xiaochun Lai</span>   
-*International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024, **early accept** *
+*International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024, **early accept***
 
