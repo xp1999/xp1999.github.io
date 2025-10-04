@@ -37,8 +37,6 @@ Education
 
 Honors
 ======
-Honors
-======
 - **Outstanding Graduate**, ShanghaiTech University, 2025 
   - *Awarded to the top 3% of the graduating class (2 of 60 students).*
 - **Outstanding Teaching Assistant**, ShanghaiTech University, 2024 
