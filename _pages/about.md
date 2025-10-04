@@ -14,6 +14,6 @@ I am currently a Ph.D student at University of Wisconsin-Madison in Medical Phys
 
 Publications
 ======
-1. A Physics-ASIC Architecture-Driven Deep Learning Photon-Counting Detector Model Under Limited Data \n
-**Xiaopeng Yu**, Qianyu Wu, Wenhui Qin, Tao Zhong, Mengqing Su, Jinglu Ma, Yikun Zhang, Xu Ji, Wenying Wang, Guotao Quan, Yanfeng Du, Yang Chen, Xiaochun Lai
+1. A Physics-ASIC Architecture-Driven Deep Learning Photon-Counting Detector Model Under Limited Data\n
+2. **Xiaopeng Yu**, Qianyu Wu, Wenhui Qin, Tao Zhong, Mengqing Su, Jinglu Ma, Yikun Zhang, Xu Ji, Wenying Wang, Guotao Quan, Yanfeng Du, Yang Chen, Xiaochun Lai
 
